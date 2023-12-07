@@ -1,5 +1,7 @@
 ---
-layout: home
+permalink: /
+redirect_from:
+  - /about
 ---
 
 # <div align="center">Your Name</div>
