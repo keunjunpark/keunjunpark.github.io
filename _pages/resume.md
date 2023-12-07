@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 # <div align="center">Your Name</div>
