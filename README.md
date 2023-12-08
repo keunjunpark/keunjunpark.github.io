@@ -1,13 +1,4 @@
-<div align="center">
-  <br>
-  <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
-  <br>  
-  <p align="center">
-    <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
-    •
-    <i>Would you be interested in <a href="https://www.producthunt.com/upcoming/reverie-pro">Reverie Pro</a>?</i>
-  </p>
-</div>
+run locally `bundle exec jekyll serve --livereload --force_polling`
 
 ---
 
@@ -24,18 +15,19 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 |![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
 
 # Table of Contents
-  - [Features overview](#features-overview)
-  - [Using Reverie on GitHub Pages](#using-reverie-on-github-pages)
-    - [1. Fork Reverie to your User Repository](#1-fork-reverie-to-your-user-repository)
-    - [2. Customize and view your site](#2-customize-and-view-your-site)
-    - [3. Publish your first blog post](#3-publish-your-first-blog-post)
-  - [Using Categories in Reverie](#using-categories-in-reverie)
-  - [Pagination](#pagination)
-  - [RSS](#rss)
-  - [Sitemap](#sitemap)
-  - [Emailware](#emailware)
-  - [The name?](#the-name)
-  - [License](#license)
+
+- [Features overview](#features-overview)
+- [Using Reverie on GitHub Pages](#using-reverie-on-github-pages)
+  - [1. Fork Reverie to your User Repository](#1-fork-reverie-to-your-user-repository)
+  - [2. Customize and view your site](#2-customize-and-view-your-site)
+  - [3. Publish your first blog post](#3-publish-your-first-blog-post)
+- [Using Categories in Reverie](#using-categories-in-reverie)
+- [Pagination](#pagination)
+- [RSS](#rss)
+- [Sitemap](#sitemap)
+- [Emailware](#emailware)
+- [The name?](#the-name)
+- [License](#license)
 
 ## Features overview
 
@@ -49,7 +41,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - Markdown blogging
 - Supports [Pullquotes](https://reverie-jekyll.netlify.app/pullquotes/)
 - Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
+  - [Dracula syntax theme](https://draculatheme.com/) included
 - Disqus commenting
 - Social media icons
 - Google Analytics integration
@@ -122,12 +114,12 @@ Reverie comes with a [RSS feed](https://en.wikipedia.org/wiki/RSS) in-built. The
 The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap.xml>. You can see the example sitemap feed over [here](https://reverie-jekyll.netlify.app/sitemap.xml).
 
 ## Emailware
+
 Reverie is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this theme or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
 ## The name?
 
-reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup> 
-
+reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup>
 
 ## License
 
