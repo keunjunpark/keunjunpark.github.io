@@ -18,4 +18,4 @@ categories: [FederatedLearning, English]
 
 - a set ouf distinct parties, controls respective training data and collaborate to train a machine learning model without sharing data.
 - Parties = clients or devices(ex, smart phone, car, wearables, cloud services like data centers, embedded systems such as manufacturing robots)
-
+-
