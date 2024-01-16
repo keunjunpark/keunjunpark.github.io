@@ -1,11 +1,8 @@
 ---
 layout: post
-title: "What is Federated Learning?"
+title: What is Federated Learning?
 categories: [FederatedLearning, English]
 ---
-
-
-### What and Why Federated Learning
 
 - training data is not managed locally.
 - data is not shared with other entity.
