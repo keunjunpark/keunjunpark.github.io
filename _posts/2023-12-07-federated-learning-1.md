@@ -4,6 +4,7 @@ title: What is Federated Learning?
 categories: [FederatedLearning, English]
 ---
 
+
 - training data is not managed locally.
 - data is not shared with other entity.
 - ML depends on the availiability of high-quality training data.
@@ -11,7 +12,7 @@ categories: [FederatedLearning, English]
 - Federated Learning can be conducted without data stored centralized.
 - It was created because of different regulations in different nations/regions.
 
-### How Federated Learning works?
+## How Federated Learning works?
 
 > a set ouf distinct parties, controls respective training data and collaborate to train a machine learning model without sharing data.
 
@@ -25,7 +26,7 @@ categories: [FederatedLearning, English]
 3. Merged model destributed to the parties for next round of learning, repeating until traning process converges.
 4. Final model that trained from all parties without sharing data.
 
-### Distributed Learning VS Federated Learning
+## Distributed Learning VS Federated Learning
 
 - Similiar
   - Using Server(aggregator) to aggregate the results from nodes, trained with distributed data.
@@ -36,7 +37,7 @@ categories: [FederatedLearning, English]
 
 > must aware of Imbalance and non-IIDness of data.
 
-#### Number of Parties in FL
+### Number of Parties in FL
 
 - Enterpries/Cross-silo use case
   - ex, traning model on datasets in different data centers of multi-national company(<10 parties)
@@ -49,13 +50,13 @@ categories: [FederatedLearning, English]
   - party identity is not important, single partiy might be involved in one training.
   - Because devices can have communication failure, need to mitigate by sampling parties and setting up time limit to perform aggregation or more
 
-#### terms
+### terms
 
-##### Party
+#### Party
 
 - clients or devices(ex, smart phone, car, wearables, cloud services like data centers, embedded systems such as manufacturing robots)
 
-##### Aggregator
+#### Aggregator
 
 - Facilitates the collaboaration.
 - to coordinate the learning process and information exchange between parties and to perform into common model,
