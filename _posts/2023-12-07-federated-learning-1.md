@@ -4,6 +4,7 @@ title: What is Federated Learning?
 categories: [FederatedLearning, English]
 ---
 
+## What and why Federated Learning
 
 - training data is not managed locally.
 - data is not shared with other entity.
@@ -50,7 +51,7 @@ categories: [FederatedLearning, English]
   - party identity is not important, single partiy might be involved in one training.
   - Because devices can have communication failure, need to mitigate by sampling parties and setting up time limit to perform aggregation or more
 
-### terms
+### Terms
 
 #### Party
 
