@@ -4,7 +4,7 @@ redirect_from:
   - /about
 ---
 
-#### Software Engineer in Healthcare with Data
+#### Software Engineer in Healthcare and Data
 
 Education
 ---------
@@ -17,7 +17,6 @@ Education
 **B.S. in Applied Statistics, Purdue University** (2014-2021)
 
 - Graduated with Major GPA with 3.67/4.00
-- Dean's List in 2014
 
 Experience
 ---------
