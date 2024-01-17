@@ -9,14 +9,14 @@ redirect_from:
 Education
 ---------
 
-**B.S. in Computer Science, Purdue University** (2014-2021)
+**Bachelor of Science in Computer Science, Purdue University** (2014-2021)
 
 - Concentration in Machine Intelligence and Programming Languages
-- Dean's List in 2014
+- Dean’s List in 2014
 
-**B.S. in Applied Statistics, Purdue University** (2014-2021)
+**Bachelor of Science in Applied Statistics, Purdue University** (2014-2021)
 
-- Graduated with Major GPA with 3.67/4.00
+- Graduated with a Major GPA of 3.67/4.00
 
 Experience
 ---------
